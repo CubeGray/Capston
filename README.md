@@ -33,13 +33,11 @@
 <br>
 
 **장바구니 화면**
-
 <br>
 <center><img src="https://user-images.githubusercontent.com/43517509/93279670-c8c1f980-f802-11ea-82f0-4e4f7f23876e.png" width="800" height="500"></center>
 <br>
 
 **가구 배치 후 바닥 재질 선택 화면**
-
 <br>
 <center><img src="https://user-images.githubusercontent.com/43517509/93279678-ccee1700-f802-11ea-9438-fe2961eb8e79.PNG" width="800" height="500"></center>
 <br>
