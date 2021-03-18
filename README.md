@@ -17,31 +17,31 @@
 <br>
 <br>
 
-**홈 화면**
+**1.C홈 화면**
 <br>
 <center><img src="https://user-images.githubusercontent.com/43517509/93279627-b34ccf80-f802-11ea-81b5-fd9bef81b6b3.PNG" width="800" height="500"></center>
 <br>
 
-**로그인 화면**
+**2.로그인 화면**
 <br>
 <center><img src="https://user-images.githubusercontent.com/43517509/93279655-c2cc1880-f802-11ea-9a74-754729ba3632.PNG" width="800" height="500"></center>
 <br>
 
-**가구 리스트 화면**
+**3.가구 리스트 화면**
 <br>
 <center><img src="https://user-images.githubusercontent.com/43517509/93279664-c6f83600-f802-11ea-8ca6-c371770be568.png" width="800" height="500"></center>
 <br>
 
-**장바구니 화면**
+**4.장바구니 화면**
 <br>
 <center><img src="https://user-images.githubusercontent.com/43517509/93279670-c8c1f980-f802-11ea-82f0-4e4f7f23876e.png" width="800" height="500"></center>
 <br>
 
-**가구 배치 후 바닥 재질 선택 화면**
+**5.가구 배치 후 바닥 재질 선택 화면**
 <br>
 <center><img src="https://user-images.githubusercontent.com/43517509/93279678-ccee1700-f802-11ea-9438-fe2961eb8e79.PNG" width="800" height="500"></center>
 <br>
 
-**배치 완료된 방 3D 시점 화면**
+**6.배치 완료된 방 3D 시점 화면**
 <br>
 <center><img src="https://user-images.githubusercontent.com/43517509/93279691-d6777f00-f802-11ea-9d54-aecdc1e87457.PNG" width="800" height="500"></center>
